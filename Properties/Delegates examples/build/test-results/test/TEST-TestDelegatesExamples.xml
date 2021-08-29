@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestDelegatesExamples" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-08-27T23:08:36" hostname="WIN-2B973CARUMM" time="0.07">
+  <properties/>
+  <testcase name="testLazy" classname="TestDelegatesExamples" time="0.054"/>
+  <testcase name="initializedOnce" classname="TestDelegatesExamples" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
