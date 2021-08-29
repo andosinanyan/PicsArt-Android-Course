@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Kotlin Koans\Collections\Fold\src\Shop.kt
+C:\Users\User\Desktop\Kotlin Koans\Collections\Fold\src\Task.kt
